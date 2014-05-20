@@ -1,0 +1,2 @@
+kill -9 pid
+find the process id with ps -ax | grep "some string you expect in the process name"
